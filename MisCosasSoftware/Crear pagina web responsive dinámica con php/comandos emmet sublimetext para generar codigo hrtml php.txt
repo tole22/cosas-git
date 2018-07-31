@@ -1,0 +1,9 @@
+! + TAB genera los inicios del archivo html osea head body etc
+
+div.nombreclase + TAB genera el div con clase nombreclase
+
+cualquier etuiqueta + TAB genera el <></>  
+
+
+ul>li*3>a{Item$}   crea un <ul> con tres <li> dentro y cada li tiene un enlace <a> donde cada texto de enlace se llama item1,2,3. El signo $ espara numerar item
+
